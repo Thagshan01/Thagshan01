@@ -1,51 +1,60 @@
-# 👨‍💻 Thagshan Arulsivam
-
-🎓 *Undergraduate - University of Colombo (School of Computing)*  
-📍 *Sri Lanka* | 💻 *Information Systems Enthusiast*
-
-![Coding Boy](https://user-images.githubusercontent.com/74038190/212750161-coding-boy-placeholder.png) <!-- Replace this with a coding boy image URL -->
+<!-- Typing effect animation (replace gif with your own if desired) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Thagshan+Arulsivam;From+Trincomalee%2C+Sri+Lanka.;(UG)+University+of+Colombo+School+of+Computing" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently diving deep into **Information Systems & Software Engineering**
-- 💬 Ask me about **UI/UX Design**, **Web Development**, and **System Design**
 - 📫 Reach me at: **thagshan11@gmail.com**
-- 🔭 Exploring backend architecture, cloud computing, and agile systems
 - 🧠 Passionate about building impactful solutions & digital products
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/thagshan-arulsivam" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/share/15aRwpZawG/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-| Languages | Frontend | Backend | Tools & OS |
-|----------|----------|---------|------------|
-| ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |  |  | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
+</p>
+ 
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=react" width="75%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=tokyonight" width="48%" /> -->
 </p>
+
 
 ---
 
@@ -57,4 +66,3 @@
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
