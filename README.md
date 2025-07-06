@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=react" width="75%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=tokyonight" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=tokyonight" width="48%" />
 </p>
 
 
