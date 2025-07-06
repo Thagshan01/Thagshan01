@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind&theme=dark" />
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql&theme=dark" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark" />
