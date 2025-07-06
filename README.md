@@ -27,33 +27,36 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
-</p>
- 
+<div align="center">
 
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,typescript&theme=dark" />
+
+### 🌟 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,redis&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=react" width="75%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff&icon_color=1e3a8a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0f172a&title_color=1e3a8a&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=dark&hide_border=true&background=0f172a&stroke=1e3a8a&ring=1e3a8a&fire=1e3a8a&currStreakLabel=1e3a8a&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
+</div>
 
 
 ---
