@@ -32,7 +32,7 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,&theme=dark" />
 
 ### 🌟 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind&theme=dark" />
