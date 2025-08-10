@@ -35,10 +35,10 @@
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,&theme=dark" />
 
 ### 🌟 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,next,vue,bootstrap,tailwind&theme=dark" />
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase,postgresql&theme=dark" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark" />
