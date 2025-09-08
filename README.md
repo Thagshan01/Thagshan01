@@ -63,9 +63,6 @@
 
 ## 🧩 Fun Facts
 
-- 🧠 Love blending creativity with logic
-- 🎯 Dreaming of launching my own tech startup
-- ✈️ Explorer at heart — always ready to learn something new!
 
 
 
