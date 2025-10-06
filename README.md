@@ -10,11 +10,12 @@
 ## 🚀 About Me  
 
 <div style="background-color: rgba(0, 0, 0, 0.3); padding: 20px; border-radius: 10px; border-left: 4px solid #3B82F6; margin: 15px 0; font-family: monospace;">
-- 💻 Aspiring Software Engineer with a strong foundation in Full-Stack Development 
-- 🌱 Currently exploring Information Systems, Software Engineering & Scalable Web Applications 
-- 🧠 Passionate about crafting efficient, impactful digital solutions  
-- 📫 Reach me at: thagshan11@gmail.com
+  <div style="margin-bottom: 10px;">💻 <b>Aspiring Software Engineer</b> with a strong foundation in Full-Stack Development.</div>
+  <div style="margin-bottom: 10px;">🌱 <b>Currently exploring</b> Information Systems, Software Engineering & Scalable Web Applications.</div>
+  <div style="margin-bottom: 10px;">🧠 <b>Passionate about</b> crafting efficient, impactful digital solutions.</div>
+  <div>📫 <b>Reach me at:</b> thagshan11@gmail.com</div>
 </div>
+
 
 ---
 
@@ -32,51 +33,56 @@
 </div>
 
 ---
-
 ## 🛠️ Tech Stack  
 
-<div style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #1E3A8A;">
+<div style="background-color: rgba(0, 0, 0, 0.3); padding: 35px; border-radius: 15px; margin: 25px 0; border: 1px solid #1E3A8A; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #E5E7EB; text-align: left;">
 
-### 💻 Programming Languages  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php&theme=dark&perline=5" alt="Languages" />
+  <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">💻 Programming Languages</h3>
+  <div style="margin-bottom: 35px;">
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php&theme=dark&perline=10" alt="Programming Languages" />
+  </div>
+
+  <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">🌟 Frontend Development</h3>
+  <div style="margin-bottom: 35px;">
+    <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,bootstrap,tailwind&theme=dark&perline=10" alt="Frontend" />
+  </div>
+
+  <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">⚙️ Backend & Databases</h3>
+  <div style="margin-bottom: 35px;">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,supabase&theme=dark&perline=10" alt="Backend" />
+  </div>
+
+  <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">🧰 Tools & Platforms</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark&perline=10" alt="Tools" />
+  </div>
+
 </div>
 
-### 🌟 Frontend  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,next,vue,bootstrap,tailwind&theme=dark&perline=7" alt="Frontend" />
-</div>
 
-### ⚙️ Backend & Databases  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,supabase&theme=dark&perline=6" alt="Backend" />
-</div>
 
-### 🧰 Tools & Platforms  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark&perline=6" alt="Tools" />
-</div>
 
-</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center" style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #1E3A8A;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
 
-  <!-- Main GitHub Stats - Public version without token -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
+  <!-- GitHub Stats Box -->
+  <div style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; border: 1px solid #1E3A8A;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
+  </div>
 
-  <!-- Top Languages - Using radical theme for better compatibility -->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" style="margin-top: 15px;" />
-</div>  -->
+  <!-- Streak Stats Box -->
+  <div style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; border: 1px solid #1E3A8A;">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=radical&hide_border=true&background=0A192F&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
+  </div>
 
-<div align="center" style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #1E3A8A;">
-
-  <!-- Streak Stats - Public version -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thagshan01&theme=radical&hide_border=true&background=0A192F&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
 </div>
+
+
+
 
 <!-- For private stats, set up your own instance: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -84,10 +90,12 @@
 
 ## 🧩 Fun Facts  
 
-<div style="background-color: rgba(30, 58, 138, 0.2); padding: 20px; border-radius: 10px; margin: 20px 0; border-left: 4px solid #3B82F6; font-family: monospace; text-align: center;">
-- 🧩 Enjoy solving real-world problems through **tech-driven solutions**  
-- 🎯 Goal: Become a **Skilled Software Engineer** and launch my own **tech startup**  
-- 🌍 Explorer at heart — love learning, building, and innovating  
+<div style="background-color: rgba(30, 58, 138, 0.2); padding: 20px; border-radius: 10px; margin: 20px 0; border-left: 4px solid #3B82F6; font-family: monospace;">
+  <div style="margin-bottom: 10px;">🧩 <b>Enjoy solving real-world problems</b> through tech-driven solutions.</div>
+  <div style="margin-bottom: 10px;">🎯 <b>Goal:</b> Become a skilled Software Engineer and launch my own tech startup.</div>
+  <div>🌍 <b>Explorer at heart</b> — love learning, building, and innovating.</div>
 </div>
+
+
 
 </div>
