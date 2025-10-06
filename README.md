@@ -10,10 +10,10 @@
 ## 🚀 About Me  
 
 <div style="background-color: rgba(0, 0, 0, 0.3); padding: 20px; border-radius: 10px; border-left: 4px solid #3B82F6; margin: 15px 0; font-family: monospace;">
-- 💻 Aspiring **Software Engineer** with a strong foundation in **Full-Stack Development**  
-- 🌱 Currently exploring **Information Systems, Software Engineering & Scalable Web Applications**  
+- 💻 Aspiring Software Engineer with a strong foundation in Full-Stack Development 
+- 🌱 Currently exploring Information Systems, Software Engineering & Scalable Web Applications 
 - 🧠 Passionate about crafting efficient, impactful digital solutions  
-- 📫 Reach me at: **thagshan11@gmail.com**
+- 📫 Reach me at: thagshan11@gmail.com
 </div>
 
 ---
@@ -69,8 +69,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
 
   <!-- Top Languages - Using radical theme for better compatibility -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" style="margin-top: 15px;" />
-</div>  
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" style="margin-top: 15px;" />
+</div>  -->
 
 <div align="center" style="background-color: rgba(0, 0, 0, 0.3); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #1E3A8A;">
 
