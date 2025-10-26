@@ -39,7 +39,7 @@
 
   <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">💻 Programming Languages</h3>
   <div style="margin-bottom: 35px;">
-    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php&theme=dark&perline=10" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,php&theme=dark&perline=10" alt="Programming Languages" />
   </div>
 
   <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">🌟 Frontend Development</h3>
@@ -54,7 +54,8 @@
 
   <h3 style="color: #3B82F6; margin-bottom: 15px; letter-spacing: 1px;">🧰 Tools & Platforms</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=dark&perline=10" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,linux,vscode,intellij,figma&theme=dark&perline=10" alt="Tools" />
+
   </div>
 
 </div>
