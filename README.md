@@ -6,18 +6,16 @@
 ---
 
 ## 🚀 About Me
-<div style="background-color:#0A192F; color:#FFFFFF; padding:20px; border-radius:10px; border:1px solid #1E3A8A;">
-  
+
 💻 **Aspiring Software Engineer** with a strong foundation in Full-Stack Development.  
 🌱 **Currently exploring** Information Systems, Software Engineering & Scalable Web Applications.  
 🧠 **Passionate about** crafting efficient, impactful digital solutions.  
 📫 **Reach me at:** thagshan11@gmail.com  
 
-</div>
-
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/thagshan-arulsivam" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" />
@@ -48,29 +46,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- GitHub Stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical" />
-
-  <!-- GitHub Streak -->
   <img height="170" src="https://streak-stats.demolab.com/?user=Thagshan01&theme=radical" />
-
 </p>
 
 <p align="center">
-
-  <!-- Top Languages -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&theme=radical" />
-
 </p>
 
 ---
 
 ## 🧩 Fun Facts
-<div style="background-color:#0A192F; color:#FFFFFF; padding:20px; border-radius:10px; border-left:4px solid #3B82F6;">
-  
+
 🧩 **Enjoy solving real-world problems** through tech-driven solutions.  
 🎯 **Goal:** Become a skilled Software Engineer and launch my own tech startup.  
 🌍 **Explorer at heart** — love learning, building, and innovating.  
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thagshan01&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
