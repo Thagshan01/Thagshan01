@@ -50,9 +50,9 @@
   <img height="170" src="https://streak-stats.demolab.com/?user=Thagshan01&theme=tokyonight&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&background=0f172a" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&theme=tokyonight&title_color=3b82f6&text_color=e0e7ff&bg_color=0f172a" />
-</p>
+</p> -->
 
 ---
 
