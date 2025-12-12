@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=radical" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Thagshan01&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thagshan01&show_icons=true&theme=tokyonight&title_color=3b82f6&icon_color=60a5fa&text_color=e0e7ff&bg_color=0f172a" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Thagshan01&theme=tokyonight&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&background=0f172a" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thagshan01&layout=compact&theme=tokyonight&title_color=3b82f6&text_color=e0e7ff&bg_color=0f172a" />
 </p>
 
 ---
@@ -62,8 +62,3 @@
 🎯 **Goal:** Become a skilled Software Engineer and launch my own tech startup.  
 🌍 **Explorer at heart** — love learning, building, and innovating.  
 
----
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thagshan01&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p> -->
